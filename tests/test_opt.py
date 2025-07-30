@@ -1,4 +1,4 @@
-from src.math_opt import add, sub, mul, div
+from src.math_opt import add, sub, mul, div, hello
 
 def test_add():
     assert add(2, 3) == 5
@@ -15,3 +15,6 @@ def test_mul():
 
 def test_div():
     assert div(4, 2) == 2
+
+def test_hello():
+    assert hello() == 'hello'
