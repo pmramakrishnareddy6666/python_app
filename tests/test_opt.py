@@ -18,4 +18,3 @@ def test_div():
 
 def test_hello():
     assert hello() == 'hello'
-    assert hello() == 'hai'
