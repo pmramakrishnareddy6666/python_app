@@ -1,3 +1,23 @@
-pandas
-pytest
+# Core dependencies
 numpy
+pandas
+requests
+
+# Testing
+pytest
+pytest-cov
+coverage
+
+# Linting
+flake8
+black
+mypy
+isort
+
+# Build & deploy
+setuptools
+wheel
+twine
+
+# Optional
+python-dotenv
