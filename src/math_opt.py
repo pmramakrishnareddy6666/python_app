@@ -14,4 +14,4 @@ def hello():
     return 'hello'
 
 def future():
-    pass
+    print('Future development')
