@@ -12,3 +12,6 @@ def div(a, b):
 
 def hello():
     return 'hello'
+
+def future():
+    pass
